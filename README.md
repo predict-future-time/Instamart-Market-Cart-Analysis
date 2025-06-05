@@ -300,4 +300,6 @@ Since, we can hack the F1 score by changing the threshold, I relied on AUC Score
 
 ## Future Work
 
-- Utilize Collaborative filtering to recommend products to a customer. 
+- Utilize Collaborative filtering to recommend products to a customer.
+
+## [<ins><b>©2025 Ashutosh Dash. All rights reserved</b></ins>](https://www.linkedin.com/in/ashutoshdash99/)
